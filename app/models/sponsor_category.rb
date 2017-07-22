@@ -1,0 +1,2 @@
+class SponsorCategory < ApplicationRecord
+end
